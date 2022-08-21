@@ -1,0 +1,98 @@
+commit 015cf055dbceb75eed044c23023bc7103eaa5593
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 19:50:57 2022 -0500
+
+    Agregando 2 parrafos
+
+commit 80b4bfe088474ee9b59b0477180492f6adae1362
+Merge: 2f60f58 402f981
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 19:48:04 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 2f60f58945c8ea93ffa03769bf5bdefa7f6627d2
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 18:13:24 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 402f981e8157300b747fd20b47bb23f9eb51b32e
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 18:13:24 2022 -0500
+
+    Agregando estaciones del año
+
+commit a2c82571edade1d7499731c9e003873fec87f21c
+Merge: 9590e67 0dc84dd
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 18:07:02 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 0dc84ddc6ac596c88e6a780c1f22268e038b73c9
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 17:53:55 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 9590e678a6928b71be6cb9250fce9761fa548b1d
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 17:50:03 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 7c5bf2a66e739b4fa43191eec1f77e57109cdd4d
+Merge: 2e29da6 ac71756
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 17:33:32 2022 -0500
+
+    Merge branch 'JS'
+
+commit ac71756b176d8f6da76b392959a074b89f028061
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 17:20:16 2022 -0500
+
+    Creando index.js
+
+commit 2e29da6cdf2dfe4caac1e24bc2679b0200ddeb98
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 17:11:26 2022 -0500
+
+    Creando style.css
+
+commit ca6f96b0c77da788a740957230554a6db328705a
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 17:05:54 2022 -0500
+
+    Creando index.html
+
+commit c651fd94b46ab24ffbb9c6629dbf0989543ee1a7
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 16:47:30 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 0c84f8e5542cd586679fc71b407e4aac75caf3eb
+Author: luisadriannu <102498392+luisadriannu@users.noreply.github.com>
+Date:   Sat Aug 20 13:54:15 2022 -0500
+
+    Creando licencia de mi repositorio
+
+commit 2e21db0907eb58ffa9e3696af86fb7c5748a4d96
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 13:47:10 2022 -0500
+
+    Agregando mas contenido al README
+
+commit a175eb380920c18378f884a66040b83115b7443b
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 13:34:24 2022 -0500
+
+    Agregando descripcion y contenido inicial al README
+
+commit 06fd7cd053e4a8cedf5d24a681d97243b9541892
+Author: LuizackJS <luisadriannu13@gmail.com>
+Date:   Sat Aug 20 13:15:35 2022 -0500
+
+    Primer commit :)

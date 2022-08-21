@@ -1,4 +1,18 @@
 html{
     background-color: red;
     color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+a{
+    color: aqua;
+}
+
+a:hover{
+    color: blue;
+}
+
+img{
+    max-width: 100%;
 }
